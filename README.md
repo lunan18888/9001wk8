@@ -10,3 +10,5 @@ wcdsvsdvsd
 ###### Heading 6
 
 **This is bold text**
+
+*Italic text*
